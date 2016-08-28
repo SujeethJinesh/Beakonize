@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "446427632249",
+    "firebase_url": "https://beakonizer-7bd2f.firebaseio.com",
+    "project_id": "beakonizer-7bd2f",
+    "storage_bucket": "beakonizer-7bd2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446427632249:android:7ef9cb5a68197344",
+        "android_client_info": {
+          "package_name": "com.estimote.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446427632249-dveffl485qn8hhio2vjt6223f3uk6kcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC60WFZdciWbt07FA7blcqK47mGckRRnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446427632249:android:bae4b5a5ed74244e",
+        "android_client_info": {
+          "package_name": "org.bluetooth.blebeacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446427632249-dveffl485qn8hhio2vjt6223f3uk6kcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC60WFZdciWbt07FA7blcqK47mGckRRnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

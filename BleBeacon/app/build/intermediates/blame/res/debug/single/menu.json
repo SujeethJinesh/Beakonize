@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scanning.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\src\\main\\res\\menu\\scanning.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\peripheral.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\src\\main\\res\\menu\\peripheral.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Android-SDK\\Examples\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scanning.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Android-SDK\\Examples\\BleBeacon\\app\\src\\main\\res\\menu\\scanning.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Android-SDK\\Examples\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\menu\\peripheral.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Android-SDK\\Examples\\BleBeacon\\app\\src\\main\\res\\menu\\peripheral.xml"
+    }
+]

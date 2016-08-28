@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sandwhich.png",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\src\\main\\res\\drawable\\sandwhich.png"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hamburger.png",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\src\\main\\res\\drawable\\hamburger.png"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hotdog.png",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\src\\main\\res\\drawable\\hotdog.png"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\lab\\Dropbox\\Beakonize\\BleBeacon\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Android-SDK\\Examples\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hotdog.png",
+        "source": "C:\\Users\\lab\\Dropbox\\Android-SDK\\Examples\\BleBeacon\\app\\src\\main\\res\\drawable\\hotdog.png"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Android-SDK\\Examples\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hamburger.png",
+        "source": "C:\\Users\\lab\\Dropbox\\Android-SDK\\Examples\\BleBeacon\\app\\src\\main\\res\\drawable\\hamburger.png"
+    },
+    {
+        "merged": "C:\\Users\\lab\\Dropbox\\Android-SDK\\Examples\\BleBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sandwhich.png",
+        "source": "C:\\Users\\lab\\Dropbox\\Android-SDK\\Examples\\BleBeacon\\app\\src\\main\\res\\drawable\\sandwhich.png"
+    }
+]
